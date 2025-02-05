@@ -1,0 +1,13 @@
+#chatbotLinks
+
+Dialoglow link: https://dialogflow.cloud.google.com/#/agent/winnie-bot-449415/editIntent/80a3fbcd-f748-4dff-ad15-d65c0d4566ee/
+telegram token : 7212564122:AAHes3IPFvdpY90e6eoKPGrxNiiRF7cqFSo
+ 
+
+You will find it at t.me/CustomerServiceRepresentativeBot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+7212564122:AAHes3IPFvdpY90e6eoKPGrxNiiRF7cqFSo
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
